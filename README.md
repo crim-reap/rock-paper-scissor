@@ -1,4 +1,9 @@
 # Welcome to my project
+I have built a game, rock paper scissors.
+The Rock-Paper-Scissors game is a simple interactive game where players choose rock, paper, or scissors
+to compete against the computer. The winner is determined based on the classic rules: rock crushes
+scissors, scissors cuts paper, and paper covers rock.
+
 
 ## How can I edit this code?
 
@@ -51,7 +56,7 @@ This project is built with:
 - Tailwind CSS
 
 
-##images
+## Images
 <img width="1512" alt="Screenshot 2025-06-11 at 7 36 27 PM" src="https://github.com/user-attachments/assets/afe0bfb8-54d2-4836-a0be-decf29ed7326" />
 
 
